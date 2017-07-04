@@ -1,5 +1,5 @@
 <?php
- //given array function finds the duplicate number 
+ //given array function finds the duplicate number without using any built-on function
  $arr = array(3,5,2,5,3,9,4,6,4);
   $temp_array = array();
 
