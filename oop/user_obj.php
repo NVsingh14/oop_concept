@@ -33,11 +33,12 @@ class User_obj {
 
 $samsung= new User_obj();
 $apple = new User_obj();
+$gionee = new User_obj();
 
 
 $samsung->set_name("prime");
 $apple->set_name("iphone-7");
-
+$gionee->set_name('');
 $samsung->set_price("50,000");
 
 $apple->set_price("20,00000");
