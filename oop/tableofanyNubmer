@@ -1,0 +1,9 @@
+<?php 
+
+define('NUM',3);  //define constant for NUM=3 act as global
+for($i=1; $i<=10;$i++) //run loop from one to ten 
+{ //initialize the loop structure
+echo $i*NUM; //multiply with loop number and the constant we define above
+echo "<br/>";
+} //terminate loop structure
+?>
